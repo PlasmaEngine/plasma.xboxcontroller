@@ -8,8 +8,8 @@ PluginInfo
 	// Drawn for the package - the bundle carried no artwork.
 	string %Icon{"XBoxControllerIcon.png"}
 	string %Banner{"XBoxControllerBanner.png"}
-	string %MinEngineVersion{"0.7.0"}
-	string %MaxEngineVersion{"0.7.0"}
+	string %MinEngineVersion{"0.11.2"}
+	string %MaxEngineVersion{"0.11.2"}
 	string %Description{"Adds support for input via the XBox controller."}
 	string %EditorPlugins{}
 	string %EditorEnginePlugins{}
