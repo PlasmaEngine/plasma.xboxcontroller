@@ -8,14 +8,14 @@
 PackageInfo
 {
 	string %Id{"plasma.xboxcontroller"}
-	string %Version{"1.2.2"}
+	string %Version{"1.3.0"}
 	string %Publisher{"PlasmaTechnology"}
 	string %License{"MIT"}
 	string %Homepage{"https://plasmagameengine.com"}
 
-	string %MinEngineVersion{"0.11.2"}
-	string %MaxEngineVersion{"0.11.2"}
-	string %AbiTag{"win64-msvc19-0.11.2-abi6-dev"}
+	string %MinEngineVersion{"0.12.0"}
+	string %MaxEngineVersion{"0.12.0"}
+	string %AbiTag{"win64-msvc19-0.12.0-abi7-dev"}
 
 	// Artwork drawn for the package - the bundle had no Icon/Banner fields at all.
 	string %DisplayName{"XBox Controller"}
